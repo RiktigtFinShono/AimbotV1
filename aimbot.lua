@@ -21,7 +21,7 @@ main.BorderSizePixel = 0
 Instance.new("UICorner", main).CornerRadius = UDim.new(0, 10)
 
 local title = Instance.new("TextLabel", main)
-title.Text = "Crash Survivor Aimbot & ESP"
+title.Text = "Aimbot & ESP Panel | V1"
 title.Size = UDim2.new(1, 0, 0, 30)
 title.BackgroundTransparency = 1
 title.TextColor3 = Color3.new(1, 1, 1)
